@@ -65,7 +65,7 @@ function setup() {
   restart.scale = 0.5;
   restart.visible = false;
 
-  score = 0;
+  score = 1;
 }
 
 function draw() {
